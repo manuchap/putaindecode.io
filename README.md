@@ -1,7 +1,7 @@
 # Putain de code !
 
 [![Travis Build Status](https://travis-ci.org/putaindecode/putaindecode.io.svg?branch=master)](http://inch-ci.org/github/putaindecode/putaindecode.io)
-[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/MoOx/putaindecode-io.svg?label=windows build)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
+[![AppVeyor Build Status]https://ci.appveyor.com/api/projects/status/github/putaindecode/putaindecode-io)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
 
 <img align="right" alt="" src="https://github.com/putaindecode/putaindecode.io/blob//master/src/images/putaindecode-logo--no-bubble-512--trim.png" width="128">
 
