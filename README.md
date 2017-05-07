@@ -1,15 +1,13 @@
 # Putain de code !
 
-[![Travis Build Status](https://img.shields.io/travis/putaindecode/putaindecode.io.svg?label=unix build)](https://travis-ci.org/putaindecode/putaindecode.io)
-[![AppVeyor Build Status](https://img.shields.io/appveyor/ci/MoOx/putaindecode-io.svg?label=windows build)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
+![Travis Build Status](https://img.shields.io/travis/putaindecode/putaindecode.io.svg?label=unix build)](https://travis-ci.org/putaindecode/putaindecode.io)
+![AppVeyor Build Status](https://img.shields.io/appveyor/ci/MoOx/putaindecode-io.svg?label=windows build)](https://ci.appveyor.com/project/MoOx/putaindecode-io)
 
 <img align="right" alt="" src="https://github.com/putaindecode/putaindecode.io/blob//master/src/images/putaindecode-logo--no-bubble-512--trim.png" width="128">
 
 Code source du site [_Putain de code !_](http://putaindecode.io/).
 Contient tout le nécessaire pour faire fonctionner le site.
 Pas de base de données à installer, pas de serveurs à configurer.
-
-## tl;dr;
 
 ```console
 $ git clone https://github.com/putaindecode/putaindecode.io.git
